@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
