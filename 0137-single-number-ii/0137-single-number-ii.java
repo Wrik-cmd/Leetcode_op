@@ -1,12 +1,12 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ones = 0, twos = 0;
+        int one = 0, twos = 0;
 
         for (int n : nums) {
-            ones = (ones ^ n) & ~twos;
-            twos = (twos ^ n) & ~ones;
+            one = (one ^ n) & ~twos;
+            twos = (twos ^ n) & ~one;
         }
 
-        return ones;
+        return one;
     }
 }
