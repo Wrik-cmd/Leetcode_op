@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
 | [0460-lfu-cache](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0460-lfu-cache) |
 ## Math
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -80,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Wrik-cmd/Leetcode_op/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
