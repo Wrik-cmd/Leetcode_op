@@ -107,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
