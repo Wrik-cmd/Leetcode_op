@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Wrik-cmd/Leetcode_op/tree/master/3870-count-commas-in-range) |
@@ -106,6 +107,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0693-binary-number-with-alternating-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
