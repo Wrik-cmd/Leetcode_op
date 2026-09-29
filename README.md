@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Wrik-cmd/Leetcode_op/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Wrik-cmd/Leetcode_op/tree/master/3871-count-commas-in-range-ii) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -95,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
