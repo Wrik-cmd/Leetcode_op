@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Wrik-cmd/Leetcode_op/tree/master/0693-binary-number-with-alternating-bits) |
