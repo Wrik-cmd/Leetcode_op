@@ -1,20 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int candidate = 0;
-        int count = 0;
-
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
-            }
-
-            if (num == candidate) {
-                count++;
-            } else {
-                count--;
-            }
+       //Methgod 1
+        // Arrays.sort(nums);
+        // int n=nums.length;
+        // return nums[n/2];
+        // Method 2
+        int c=0;int cand=0;
+        for(int i:nums){
+                if(c==0)cand=i;
+                if(cand==i)c--;
+                else c++;
         }
-
-        return candidate;
+        return cand;
     }
 }
